@@ -34,7 +34,7 @@ Configuração da API Gemini:
 setx GOOGLE_API_KEY "SUA_API_KEY" #cria uma variável de ambiente chamada GOOGLE_API_KEY com o valor da chave passada com parâmetro
 ```
 
-# Como executar:
+Como executar:
 ```
 streamlit run app.py
 ```
