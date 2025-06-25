@@ -2,7 +2,7 @@
 Uma aplicação de Inteligência Artificial aplicada a linguagem natural, desenvolvida com fins didáticos para demonstrar o uso prático de LLMs (Large language Models) com LangChain e Streamlit.
 
 # Objetivo
-Criar um agente inteligente capaz de resumir textos e arquivos de forma clara e objetiva, utilizando um modelo da API Gemini (Google).
+Criar um agente inteligente capaz de resumir textos e artigos de forma clara e objetiva, utilizando um modelo da API Gemini (Google).
 
 # Tecnologias Utilizadas
 
