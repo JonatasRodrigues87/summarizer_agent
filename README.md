@@ -18,7 +18,7 @@ Criar um agente inteligente capaz de resumir textos e arquivos de forma clara e 
 Clone o repositório:
 ```bash
 git clone https://github.com/JonatasRodrigues87/summarizer_agent.git
-cd repositorio
+cd repositorio_local
 ```
 Crie um ambiente virtual e ative:
 ```
